@@ -1,5 +1,6 @@
 .hg
 .hgignore
 corrige.cpp
+corrige.h
 *.exe
 *.swp
